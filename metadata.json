@@ -1,0 +1,6 @@
+{
+  "name": "Smart Nursing Implmentation",
+  "description": "A NotebookLM-inspired application for analyzing documents and displaying structured results in a data table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
